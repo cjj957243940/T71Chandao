@@ -1,0 +1,10 @@
+2017-10-25 19:33:57.140 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverFactory: 杀死Chrome浏览器进程成功
+2017-10-25 19:34:04.909 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils: 打开网址：http://192.168.1.120:81/zentao/
+2017-10-25 19:34:05.033 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils:  在元素：用户名输入框 输入admin
+2017-10-25 19:34:05.133 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils:  在元素：密码输入框 输入123456
+2017-10-25 19:34:05.299 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils: 点击元素：登录按钮
+2017-10-25 19:34:08.732 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils: 打开网址：http://192.168.1.120:81/zentao/
+2017-10-25 19:34:08.845 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils:  在元素：用户名输入框 输入admin
+2017-10-25 19:34:08.962 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils:  在元素：密码输入框 输入cjj18890497658
+2017-10-25 19:34:09.721 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils: 点击元素：登录按钮
+2017-10-25 19:34:12.753 INFO  com.chandao.utils.Log 25 info - com.chandao.baseframework.DriverUntils: 获取元素：用户主菜单文本值
